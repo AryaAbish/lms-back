@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "655464de00ba92cbfa9722b6",
+    "name": "The Power of Your Subconscious Mind",
+    "category": "Philosaphy",
+    "price": 200,
+    "author": "Joseph Murphy",
+    "language": "English",
+    "publisher": "Fingerprint! Publishing",
+    "isbn": 9355991479,
+    "img": "https://www.pdfnotes.co/wp-content/uploads/2021/01/PDF-The-Power-of-your-Subconscious-Mind-pdf-Book-by-Joseph-Murphy.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "65546619efda0d1162294839",
+    "name": "Ikigai",
+    "category": "Philosaphy",
+    "price": 188,
+    "author": "Keira Miki",
+    "language": "English",
+    "publisher": "Diamond Books",
+    "isbn": 9355991477,
+    "img": "https://cdn2.penguin.com.au/covers/original/9781786330895.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "655471c6efda0d116229483e",
+    "name": "THE SILENT PATIENT",
+    "category": "Fiction",
+    "price": 501,
+    "author": "1409181634",
+    "language": "English",
+    "publisher": "Orion",
+    "isbn": 1409181634,
+    "img": "https://images.squarespace-cdn.com/content/v1/58349ff3f7e0ab6c8636f24c/1558953255237-PWIYS50P0H2VXM7C4FJU/ke17ZwdGBToddI8pDm48kG92JA5s_olOPKiIAZEOzq17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UQ9OE6Nok5Z1d9SznKouZjJ7DVboibDynoZcL_2chHL_Skf28yxfMn4Vem2XljIbPg/81zTPgET%2BnL.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "655472ebefda0d1162294841",
+    "name": "The Complete Novel of Sherlock Holmes",
+    "category": "Fiction",
+    "price": 349,
+    "author": "Arthur Conan Doyle",
+    "language": "English",
+    "publisher": "Fingerprint! Publishing",
+    "isbn": 8175994312,
+    "img": "https://th.bing.com/th/id/OIP.otOLog-GDESmTillucXDlAHaLe?pid=ImgDet&rs=1",
+    "__v": 0
+  },
+  {
+    "_id": "6554734fefda0d1162294844",
+    "name": "The Alchemist",
+    "category": "Fiction",
+    "price": 294,
+    "author": "Paulo Coelho",
+    "language": "English",
+    "publisher": "Harper",
+    "isbn": 9788172234980,
+    "img": "https://at2books.com/wp-content/uploads/2021/05/The-Alchemist.jpg",
+    "__v": 0
+  }
+]
